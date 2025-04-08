@@ -27,7 +27,3 @@ Pay & Go is an end-to-end payment wallet clone built using the MERN stack (Mongo
 - `Axios`: HTTP client for making API calls.
 - `Tailwind CSS`: Utility-first CSS framework for styling the frontend.
 - `React Router DOM`: Library for declarative routing in React applications.
-
-
-##Screen-Shots
-
